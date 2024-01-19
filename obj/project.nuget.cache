@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UvKVmUvXsC5ysNFQdRf+syz1T/XuIWxP99lPbp/yJ/maVZ9knCv0hcSAq5FxDDN3kQDS2CtV2sd29SwjMJ8Vow==",
+  "success": true,
+  "projectFilePath": "E:\\WebAppBankLogin\\WebAppBankLogin\\WebAppBankLogin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kotap\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+E:\WebAppBankLogin\WebAppBankLogin\obj\Release\net6.0\PubTmp\Out\WebAppBankLogin.exe
+E:\WebAppBankLogin\WebAppBankLogin\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\WebAppBankLogin\WebAppBankLogin\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\WebAppBankLogin\WebAppBankLogin\obj\Release\net6.0\PubTmp\Out\WebAppBankLogin.dll
+E:\WebAppBankLogin\WebAppBankLogin\obj\Release\net6.0\PubTmp\Out\WebAppBankLogin.deps.json
+E:\WebAppBankLogin\WebAppBankLogin\obj\Release\net6.0\PubTmp\Out\WebAppBankLogin.runtimeconfig.json
+E:\WebAppBankLogin\WebAppBankLogin\obj\Release\net6.0\PubTmp\Out\WebAppBankLogin.pdb
